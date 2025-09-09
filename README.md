@@ -36,14 +36,14 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Abdelrahman Badawi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman-Badawi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Badawi&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white)](mailto:your_email@example.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000.svg?&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-badawi-23417a257)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white)](mailto:abdulrahman1badwi@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000.svg?&logo=github&logoColor=white)](https://github.com/Abdelrahman-Badawi)  
+
