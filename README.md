@@ -7,7 +7,7 @@
 
 💡 Always learning | 🔥 Flutter, Firebase & REST APIs | 🌍 Open to collaboration  
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFsMjdyZXpxMWZxMXVvbzk1anlhajhjZXVvZzY3eWVsZjRqbzI0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Animation" width="60%"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdsbGJtNWJ5dGV1dXRsbjJrM3dia3pmY3BxbHR5MTZsc2g1M3BnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378m383ScB09wPuw/giphy.gif" alt="Coding Animation" width="60%"/>
 
 </div>
 
