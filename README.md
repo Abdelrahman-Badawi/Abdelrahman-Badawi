@@ -37,13 +37,28 @@
 
 ---
 ## 📊 GitHub Stats  
-![Abdelrahman Badawi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman-Badawi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Badawi&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Badawi&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Badawi&layout=compact&theme=radical" height="160"/>
+</div>
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-badawi-23417a257)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white)](mailto:abdulrahman1badwi@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000.svg?&logo=github&logoColor=white)](https://github.com/Abdelrahman-Badawi)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdelrahman-badawi-23417a257">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abdulrahman1badwi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Abdelrahman-Badawi">
+    <img src="https://img.shields.io/badge/GitHub-100000.svg?&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201019131759">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?&logo=whatsapp&logoColor=white"/>
+  </a>
+</div>
+
+
 
