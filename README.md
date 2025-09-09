@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="70%"/>  
 
 # 👋 Hi, I'm Abdelrahman Badawi  
-### 🚀 Mobile App Developer | Flutter Enthusiast  
+### 🚀 Mobile App | Flutter Developer  
 
 💡 Always learning | 🔥 Flutter, Firebase & REST APIs | 🌍 Open to collaboration  
 
@@ -13,13 +13,13 @@
 
 ---
 
-## 🚀 About Me  
-- 🎓 Computer Science background with focus on **Mobile App Development**.  
-- 💙 Passionate about building apps using **Flutter**, **Firebase**, and integrating **REST APIs**.  
-- 🛠️ Hands-on experience with **SQLite**, **Postman**, and local storage solutions.  
-- 📚 Constantly learning new tools & frameworks.  
-- 🤝 Love working on meaningful projects and collaborating with developers.  
-- 📧 Reach me at: **your_email@example.com**  
+## 👨‍💻 About Me:
+- 🎓 Computer Science graduate with a strong passion for **Mobile App Development**.  
+- 💻 Specialized in building cross-platform apps using **Flutter** & **Firebase**.  
+- 🌱 Always learning—whether it's exploring Dart, integrating **REST APIs**, or working with **SQLite** for local storage.  
+- 💬 I enjoy collaborating on meaningful projects and sharing knowledge with other developers.  
+- 📱 Experienced with **Postman** for API testing and **Bloc/Cubit** for state management.  
+- 📧 Reach me at: **abdulrahman1badwi@gmail.com**    
 
 ---
 
